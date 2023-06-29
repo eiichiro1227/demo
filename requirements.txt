@@ -1,0 +1,12 @@
+pytest
+markdown
+html2text
+pyyaml
+twilio
+click
+wheel
+proto-plus
+grpcio
+google-cloud-bigquery
+urllib3
+dnspython

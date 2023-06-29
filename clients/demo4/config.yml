@@ -1,0 +1,21 @@
+mail:
+  common:
+    smtp_host: "smtp.gmail.com"
+    username: "info@espalhar.net"
+    password: "evlcwrwgbmdcmhqi"
+  templates:
+    main:
+      from: "development.espalhar@gmail.com"
+      subject: "(DEMO4)ご入力をお忘れではありませんか？"
+    sample-product2:
+      from: "development.espalhar@gmail.com"
+      subject: "(DEMO4)ご入力をお忘れではありませんか？"
+
+sms:
+  common:
+    subject: None
+  templates:
+    main:
+      subject: Demo
+    sample-product2:
+      subject: Demo
